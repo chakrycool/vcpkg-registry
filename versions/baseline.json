@@ -1,0 +1,25 @@
+{
+    "default":
+    {        
+        "icu":
+        {
+            "baseline": "72.1.0",
+            "port-version": 0
+        },
+        "vcpkg-cmake":
+        {
+            "baseline": "2022-08-18",
+            "port-version": 0
+        },
+        "vcpkg-cmake-config":
+        {
+            "baseline": "2022-02-06",
+            "port-version": 0
+        },
+        "xerces-c":
+        {
+            "baseline": "3.2.3",
+            "port-version": 0
+        }
+    }
+}
