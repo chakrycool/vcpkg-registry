@@ -6,6 +6,11 @@
             "baseline": "72.1.0",
             "port-version": 0
         },
+        "fmt":
+        {
+            "baseline": "9.1.0",
+            "port-version": 0
+        },
         "vcpkg-cmake":
         {
             "baseline": "2022-08-18",
@@ -19,11 +24,6 @@
         "xerces-c":
         {
             "baseline": "3.2.3",
-            "port-version": 0
-        },
-        "fmt":
-        {
-            "baseline": "9.1.0",
             "port-version": 0
         }
     }
