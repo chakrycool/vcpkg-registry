@@ -20,6 +20,11 @@
         {
             "baseline": "3.2.3",
             "port-version": 0
-        }
+        },
+        "fmt":
+        {
+            "baseline": "9.1.0",
+            "port-version": 0
+        },
     }
 }
